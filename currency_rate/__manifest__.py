@@ -9,7 +9,7 @@
         
     """,
 
-    'author': "RPJ",
+    'author': "RPJ Jr",
     'website': "http://www.kadai.prahasiber.com",
 
     # Categories can be used to filter modules in modules listing
